@@ -1,0 +1,48 @@
+---
+title: 
+date: "January 15, 2018"
+output: 
+  html_document:
+    toc: true
+    #toc_depth: 2
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+# Syllabus (FIN 302) Financial Management Principles
+<br>
+<br>
+<center>
+<b>SUNY POLYTECHNIC INSTITUTE</b>
+
+<b>SCHOOL OF BUSINESS ADMINISTRATION</b>
+</center>
+<br>
+<br>
+**Instructor**: Matthew Brigida, Ph.D.
+
+**Office**: 
+
+**Email**:  
+
+**Course Start Date**: 
+
+**Course End Date**: 
+
+**Class Location**:  Hybrid (in class and Online (Blackboard))
+
+**Text**: [Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463](https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=) [Used Copies usually starting from about $4](https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used).  You also may use other editions of the text.
+
+**Supplementary Materials**: [5-Minute Finance](https://www.5minutefinance.org/).  There may be additional topics in the [Fundamentals and Corporate Finance Sections here.](https://github.com/FinancialMarkets/5MinuteFinance)
+
+**Important Dates**
+
+**Midterm Exam:**  
+
+**Final Exam:**  
+
+## Description
+
+## Grading
+
