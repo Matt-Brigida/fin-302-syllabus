@@ -2,13 +2,31 @@
 title: 
 date: "January 15, 2018"
 output: 
-  html_document:
-   toc: true
-   theme: united
-   toc_float:
-     collapsed: false
-     smooth_scroll: false
+  rmdformats::html_clean:
+    highlight: kate
+##  html_document:
+##   toc: true
+##   theme: spacelab
+##   toc_float:
+##     collapsed: false
+##     smooth_scroll: false
 ---
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
 
 # Syllabus (FIN 302) Financial Management Principles
 <br>
@@ -48,7 +66,7 @@ output:
 
 **Course Catalog Description**: General principles of corporate/managerial finance are presented. Topics include the tax environment, an overview of financial planning and control, working capital management, long term financing, time value of money, capital budgeting, cost of capital, dividend policy, agency theory, and international financial issues. Responsibilities and functions performed by financial analysts, financial managers, and chief financial managers are discussed. (Pre-requisite: ACC 201 or equivalent.)
 
-### Overview:
+### Overview
 
 -  This course will present the fundamentals of managerial finance as a vital part of the complete business ecosystem. Importance is placed on becoming familiar with the rudimentary tools and techniques that act as the basis for all further study and function of finance.
 
@@ -58,7 +76,7 @@ output:
 
 -  Introduction to the role of the change agent and changing technology in financial analysis and financial decision-making processes.
 
-### Course Learning Outcomes & Objectives:
+### Course Learning Outcomes & Objectives
 
 CLO 1. Technical Competence: Adept in applying technology to solve institutional problems and enable effective financial decision making.
 
@@ -138,13 +156,13 @@ Accommodations for Students with Disabilities registered at SUNY Polytechnic Ins
 - 1/22:  Chapter 3 and 4
 - 1/29: Chapter  5
 - 2/5: Chapter 6
-- 2/12: (exam review) 
-- 2/19: {\bf 10/03 (Exam 1)} & Chapter 7
+- 2/12: <span style="color:green">*Exam Review*</span>
+- 2/19: <span style="color:red">**Exam 1**</span> & Chapter 7
 - 2/26: Chapter 8
 - 3/12: Chapter 9
 - 3/19: Chapter 10 and 11
-- 3/26: (exam review) 
-- 4/2: {\bf 4/2 (Exam 2)} & Chapter 12
+- 3/26:  <span style="color:green">*Exam Review*</span>
+- 4/2: <span style="color:red">**Exam 2**</span> & Chapter 12
 - 4/9: Chapter 13 and 14
 - 4/16: Chapter 15
 - 4/23: exam review 
