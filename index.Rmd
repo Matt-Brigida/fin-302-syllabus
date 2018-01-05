@@ -86,6 +86,14 @@ CLO 3. Strategic and Integrative Thinking: Understand the baseline resources ava
 
 CLO 4. Leadership and Communication: Be capable of expressing key financial concepts and terms commonly used in the field; by using effective written, oral and interpersonal communications to contribute to the financial performance of domestic firms, global organizations and other international relationships.
 
+## Exams
+
+There will be three exams (two during the semester and a final).  The exams will be multiple choice.
+
+## Project
+
+The project
+
 ## Grading
 <center>
 
@@ -93,9 +101,10 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 tabl <- "
 | Item | Points |
 | ---- | ------ |
-| Exam 1 |  25 |
-| Exam 2 |  25 |
-| Final Exam |  35 |
+| Exam 1 |  20 |
+| Exam 2 |  20 |
+| Final Exam |  30 |
+| Project | 15 |
 | Homework/Pop Quizzes/Other Participation | 15 |
 | Total Points | 100 |
 "
