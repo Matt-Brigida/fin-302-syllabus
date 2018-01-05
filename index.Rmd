@@ -92,7 +92,9 @@ There will be three exams (two during the semester and a final).  The exams will
 
 ## Project
 
-The project
+In groups, students will value a tolling agreement on a natural gas fired power plant via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money. 
+
+In addition, students will gain experience handling data, and making reasonable assumptions necessary in real-world analyses. 
 
 ## Grading
 <center>
