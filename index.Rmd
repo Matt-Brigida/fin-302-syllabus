@@ -40,9 +40,9 @@ opts_knit$set(width=75)
 <br>
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: Donovan 1127?
+**Office**: Donovan 1277
 
-**Office Hours**: Tuesday 4:00--5:00 and Monday/Wednesday 10:30--12:00
+**Office Hours**: Tuesday 5:00--6:00 and Monday/Wednesday 10:30--12:00
 
 **Email**:  matthew.brigida@sunyit.edu
 
@@ -50,7 +50,7 @@ opts_knit$set(width=75)
 
 <!-- **Course End Date**:  -->
 
-**Class Location**:  DONOVN 1146
+**Class Location**:  Donovan G144
 
 **Class Day/Time**: Tuesday, 6:00---9:30pm
 
