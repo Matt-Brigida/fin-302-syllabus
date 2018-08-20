@@ -98,6 +98,10 @@ In groups, students will value a tolling agreement on a natural gas fired power 
 
 In addition, students will gain experience handling data, and making reasonable assumptions necessary in real-world analyses.
 
+## Quizzes/Homework
+
+Prior to each exam I will assign a brief quiz. The quiz questions are designed to give you an idea of what will be on the exam.  I *may* assign homework at some point if I think it will help you understand the material.  
+
 ## Grading
 <center>
 
@@ -107,9 +111,9 @@ tabl <- "
 | ---- | ------ |
 | Exam 1 |  20 |
 | Exam 2 |  20 |
-| Final Exam |  30 |
+| Final Exam |  25 |
 | Project | 15 |
-| Homework/Pop Quizzes/Other Participation | 15 |
+| (Pop) Quizzes/Homework/Other Participation | 20 |
 | Total Points | 100 |
 "
 cat(tabl)
@@ -148,7 +152,7 @@ Accommodations are implemented to ensure compliance with the Americans with Disa
 
 The Disabilities Services Office is happy to advocate or coordinate with outside service providers, by student request and with written consent to communicate. Parents should be aware that legal rights and responsibilities change from high school to the college, both in terms of the type of support provided and in terms of parental involvement in the process. Students are solely responsible for self-identifying and following up with our office for any needs that they may have. Any student who wishes to have our office communicate with a parent must sign a written consent for permission to communicate.
 
-### Course Syllabus Disclosure Statement Spring 2018
+### Course Syllabus Disclosure Statement Fall 2018
 
 Accommodations for Students with Disabilities registered at SUNY Polytechnic Institute
 
@@ -165,7 +169,8 @@ Accommodations for Students with Disabilities registered at SUNY Polytechnic Ins
 
 ## Tentative Outline
 
-<!-- - 1/15: Chapter 1 & 2
+<!-- 
+- 1/15: Chapter 1 & 2
 - 1/22:  Chapter 3 and 4
 - 1/29: Chapter  5
 - 2/5: Chapter 6
@@ -179,7 +184,9 @@ Accommodations for Students with Disabilities registered at SUNY Polytechnic Ins
 - 4/9: Chapter 13 and 14
 - 4/16: Chapter 15
 - 4/23: exam review
-- 4/30: Finals Week -->
+- 4/30: Finals Week 
+-->
+
 - 8/27: Chapter 1 & 2
 - 9/3:  Chapter 3 and 4
 - 9/10: Chapter  5
