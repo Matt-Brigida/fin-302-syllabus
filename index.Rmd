@@ -203,8 +203,8 @@ Accommodations for Students with Disabilities registered at SUNY Polytechnic Ins
 - 11/26: exam review
 - 12/3: exam review
 
-## A note on learning in the course and in finance generally:
+<!---## A note on learning in the course and in finance generally:
 
 In this course I will teach you how to answer questions, and solve financial problems.  This is different than teaching you the answers to text questions, and the distinction here is important.  When you start to work you will be faced with unique financial situations and problems to solve.  You will have to figure out how to solve the problem.  To do so you will apply the concepts and skills you learn in this course to your particular situation.  You will never be faced with a textbook problem while working however.   
 
-As a practical example, it makes much more sense for you to ask me "how do I solve this problem", rather than "what is the answer to this problem".  You might say, 'well I just want to check if my work is correct'.  If this is the case, then show me the work, so I can see both how you solved it and your numerical answer.
+As a practical example, it makes much more sense for you to ask me "how do I solve this problem", rather than "what is the answer to this problem".  You might say, 'well I just want to check if my work is correct'.  If this is the case, then show me the work, so I can see both how you solved it and your numerical answer.-->
