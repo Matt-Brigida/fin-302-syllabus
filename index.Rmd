@@ -92,6 +92,10 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 
 There will be three exams (two during the semester and a final).  The exams will be multiple choice.
 
+### Final Exam Exemption
+
+Students may be exempted from the final exam if their scores on exams 1 and 2 are sufficiently high, and they have completed all quizzes and homework assignments, and they also generally attend classes and participate.  No student is automatically exempted.  After exam 2, I will let you know the threshold that defines "sufficiently high".  If your exams scores meet the threshold, you can ask in person after class for an exemption.  I'll then confirm whether you meet all other criteria.
+
 ## Project
 
 In groups, students will value a tolling agreement on a natural gas fired power plant via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money.
