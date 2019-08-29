@@ -6,7 +6,7 @@ output:
     highlight: kate
 ---
 
-```{r knitr_init, echo=FALSE, cache=FALSE}
+```{r knitr_init, echo=FALSE, cache=FALSE, message=FALSE, warning=FALSE}
 library(knitr)
 library(rmdformats)
 
@@ -44,7 +44,7 @@ opts_knit$set(width=75)
 
 <!-- **Course End Date**:  -->
 
-**Class Location**:  Donovan 1146
+**Class Location**:  Donovan 1157
 
 **Class Day/Time**: Wednesday, 6:00--9:30pm
 
@@ -180,7 +180,6 @@ The Disabilities Services Office is happy to advocate or coordinate with outside
 
 ## Tentative Outline by Week
 
-
 <!-- - 1/22: Chapter 1 & 2 -->
 <!-- - 1/28:  Chapter 3 and 4 -->
 <!-- - 2/4: Chapter  5 -->
@@ -197,7 +196,7 @@ The Disabilities Services Office is happy to advocate or coordinate with outside
 <!-- - 4/22: Chapter 15 -->
 <!-- - 4/29: exam review -->
 <!-- - 5/6: Finals Week  -->
-Week Starting: Chapter Covered
+
 - 8/26: Chapter 1 & 2
 - 9/2:  Chapter 3 and 4
 - 9/9: Chapter  5
