@@ -86,9 +86,11 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 
 There will be three exams (two during the semester and a final).  The exams will be multiple choice.
 
+<!---
 ### Final Exam Exemption
 
 Students may be exempted from the final exam if their scores on exams 1 and 2 are sufficiently high, *and* they have completed all quizzes and homework assignments, *and* they also generally attend classes and participate.  No student is automatically exempted.  After exam 2, I will let you know the threshold that defines "sufficiently high".  If your exams scores meet the threshold, you can ask in person after class for an exemption.  I'll then confirm whether you meet all other criteria.
+-->
 
 ## Project
 
@@ -98,9 +100,9 @@ In groups, students will value a tolling agreement on a natural gas fired power 
 
 In addition, students will gain experience handling data, and making reasonable assumptions necessary in real-world analyses.
 
-## Quizzes/Homework
+## Attendance/Quizzes/Participation
 
-Prior to each exam I will assign a brief quiz. The quiz questions are designed to give you an idea of what will be on the exam.  I *may* assign homework at some point if I think it will help you understand the material.  
+Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
 
 ## Grading
 <center>
@@ -113,7 +115,7 @@ tabl <- "
 | Exam 2 |  20 |
 | Final Exam |  25 |
 | Project | 15 |
-| (Pop) Quizzes/Homework/Other Participation | 20 |
+| Attendance/Pop Quizzes/Other Participation | 20 |
 | Total Points | 100 |
 "
 cat(tabl)
@@ -212,6 +214,13 @@ The Disabilities Services Office is happy to advocate or coordinate with outside
 - 11/18: Chapter 15
 - 11/25: exam review
 - 12/2: exam review
+
+
+## Communication by Email
+
+### When It Is Appropriate
+
+This is an in-class course, and you are responsible for knowing what has taken place in class.  In the case of an unexcused absence, you should come by office hours or talk with classmates to learn what you missed. 
 
 <!---## A note on learning in the course and in finance generally:
 
