@@ -46,7 +46,7 @@ opts_knit$set(width=75)
 
 **Class Location**:  Donovan 1157
 
-**Class Day/Time**: Wednesday, 6:00--9:30pm
+**Class Day/Time**: Tuesday, 6:00--9:30pm
 
 **Text**: [Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463](https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=) [Used Copies usually starting from about $4](https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used).  You also may use other editions of the text.
 
@@ -96,7 +96,13 @@ Students may be exempted from the final exam if their scores on exams 1 and 2 ar
 
 <!-- add project with banking research data set here -->
 
-In groups, students will value a tolling agreement on a natural gas fired power plant via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money.
+In groups, students will either:
+
+1.  Value a tolling agreement on a natural gas fired power plant via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money.
+
+or 
+
+2. Estimate the relationship between capital levels and measures of bank income and performance.
 
 In addition, students will gain experience handling data, and making reasonable assumptions necessary in real-world analyses.
 
