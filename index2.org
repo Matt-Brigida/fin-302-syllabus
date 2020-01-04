@@ -1,0 +1,218 @@
+#+TITLE:Syllabus (FIN 302) Financial Management Principles
+#+AUTHOR:
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+
+
+#+BEGIN_CENTER
+SUNY POLYTECHNIC INSTITUTE
+
+SCHOOL OF BUSINESS ADMINISTRATION
+#+END_CENTER
+
+
+**Instructor**: Matthew Brigida, Ph.D.
+
+**Office**: Donovan 1277
+
+**Office Hours**: Tuesday and Wednesday 4:30--6:00
+
+**Email**:  matthew.brigida@sunyit.edu
+
+**Class Location**:  Donovan 1157
+
+**Class Day/Time**: Tuesday, 6:00--9:30pm
+
+**Text**: [[https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=][Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463]] | [[https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used][Used Copies usually starting from about $4]] You also may use other editions of the text.
+
+**Supplementary Materials**: [[https://www.5minutefinance.org/][5-Minute Finance]] There may be additional topics in the [[https://github.com/FinancialMarkets/5MinuteFinance][Fundamentals and Corporate Finance Sections here]].
+
+
+* Description
+
+**Course Catalog Description**: General principles of corporate/managerial finance are presented. Topics include the tax environment, an overview of financial planning and control, working capital management, long term financing, time value of money, capital budgeting, cost of capital, dividend policy, agency theory, and international financial issues. Responsibilities and functions performed by financial analysts, financial managers, and chief financial managers are discussed. (Pre-requisite: ACC 201 or equivalent.)
+
+** Overview
+
+-  This course will present the fundamentals of managerial finance as a vital part of the complete business ecosystem. Importance is placed on becoming familiar with the rudimentary tools and techniques that act as the basis for all further study and function of finance.
+
+-  Emphasis is also placed on exploring the human, technological, and environmental impacts on financial decision making and the societal variables that facilitate positive (financial and social) outcomes.
+
+-  Attention to current events and linkage between financial markets and corporate decision-making and vis-a-vis is discussed.
+
+-  Introduction to the role of the change agent and changing technology in financial analysis and financial decision-making processes.
+
+** Course Learning Outcomes & Objectives
+
+CLO 1. Technical Competence: Adept in applying technology to solve institutional problems and enable effective financial decision making.
+
+CLO 2. Analytical Problem Framing: Demonstrate individual capacity to evaluate and deploy analytical methods selected from a diverse portfolio of tools analyze and manage common financial decisions.
+
+CLO 3. Strategic and Integrative Thinking: Understand the baseline resources available for analyzing and managing a firm’s financial performance. Including collecting data, processing information and evaluating and communicating outcomes with partners; differentiate between the accounting function as a preparer of data and information and the finance function as a user of information for decision making and the role of ethics in the process.
+
+CLO 4. Leadership and Communication: Be capable of expressing key financial concepts and terms commonly used in the field; by using effective written, oral and interpersonal communications to contribute to the financial performance of domestic firms, global organizations and other international relationships.
+
+* Exams
+
+There will be three exams (two during the semester and a final).  The exams will be multiple choice.
+
+
+* Project
+
+<!-- add project with banking research data set here -->
+
+In groups, students will either:
+
+1.  Value a tolling agreement on a natural gas fired power plant near Boston Mass via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money.  [[https://www.eia.gov/electricity/wholesale/#history][Data are here]].
+
+or 
+
+2. Estimate the relationship between capital levels and measures of bank income and performance.
+
+In addition, students will gain experience handling data, and making reasonable assumptions necessary in real-world analyses.
+
+* Attendance/Quizzes/Participation
+
+Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+
+* Grading
+
+#+BEGIN_CENTER
+
+| Item                                       | Points |
+|--------------------------------------------+--------|
+| Exam 1                                     |     20 |
+| Exam 2                                     |     20 |
+| Final Exam                                 |     25 |
+| Project                                    |     15 |
+| Attendance/Pop Quizzes/Other Participation |     20 |
+| Total Points                               |    100 |
+
+#+END_CENTER
+
+#+BEGIN_CENTER
+**Final grades will be assigned according to the following scale**:
+#+END_CENTER
+
+- 90 - 100 A
+- 80 - 89.9 B
+- 70 - 79.9 C
+- 60 - 69.9 D
+- $<$ 60 F
+
+#+BEGIN_QUOTE
++/- grades may be assigned at the instructors discretion.
+#+END_QUOTE
+
+* Guidelines and Accommodations
+
+Academic Integrity Policy Students Enrolled in this course are required to understand and fully comply with all aspects of the Academic Integrity Policy as described in the SUNY Polytechnic Institute Handbook (available at:  https://sunypoly.edu/pdf/student_handbook.pdf )
+
+** Accommodations for Students with Disabilities
+
+Students with disabilities are welcome at SUNY Polytechnic Institute.
+The Disabilities Services Office is located in the Career Services Suite, B101, Kunsela Hall
+Hours: Monday through Friday 8:30 a.m. – 4:30 p.m. or by appointment.
+E-mail: suzanne.sprague@sunyit.edu
+Phone: (315) 792-7170
+
+Any current or prospective student may contact our office to discuss potential academic accommodations. Typical accommodations include extended time for testing, testing in a quiet location, textbooks in alternate format, and others as determined by the nature of the disability. These accommodations must be supported by documentation from outside sources, such as a recent psychological evaluation or medical report that clearly identifies the nature of your disability and the impact of your disability or treatment upon learning. (SUNY Poly is not responsible for providing evaluation or funding to complete the needed documentation.)
+
+The Disabilities Services Office will assist with requesting the required documentation or exploring resources that may provide testing or documentation. Once documentation is received, the Disability Counselor meets with the student to discuss the information based on his or her experiences and perspective. A student’s explanation of how his or her disability affects learning and what accommodations are needed is extremely important. Once a determination is made regarding the reasonable and appropriate accommodations, a plan is written which students sign and share with instructors. This plan does not disclose the nature of the disability, although many students have found that discussing their circumstances with faculty can be helpful.
+
+Accommodations are implemented to ensure compliance with the Americans with Disabilities Act of 1990 (ADA) and Section 504 (subsection E) of the Rehabilitation Act. The intent of which is to provide access for otherwise qualified persons. SUNY Poly is not required to lower or substantially modify essential academic requirements, or make modifications that would fundamentally alter the nature of a service, program, or activity or that would result in an undue financial or administrative burden. Additionally, accommodation plans must be updated each semester.
+
+The Disabilities Services Office is happy to advocate or coordinate with outside service providers, by student request and with written consent to communicate. Parents should be aware that legal rights and responsibilities change from high school to the college, both in terms of the type of support provided and in terms of parental involvement in the process. Students are solely responsible for self-identifying and following up with our office for any needs that they may have. Any student who wishes to have our office communicate with a parent must sign a written consent for permission to communicate.
+
+** Course Syllabus Disclosure Statement Spring 2019
+
+>Accommodations for Students with Disabilities
+
+>In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services.  For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.
+
+>Evelyn Lester, Director
+>Office of Disability Services
+>lestere@sunypoly.edu
+>(315) 792-7170
+>
+>Utica Campus
+>Peter J. Cayan Library, L145
+>
+>Albany Campus
+>Suite 309, Students Services Office
+>NanoFab South
+
+<!-- * Instructor's Notes -->
+
+<!-- -  **Understanding vs Computation**: This course will focus on understanding financial concepts over merely calculating a number. Any calculation you will see as an undergrad has already been implemented in 20+ different programming languages.  You will never get a job as a calculator.  The value of the financial analyst is in undertanding what a calculation does, what the output means, etc.  You must be able to use the appropriate calculation in a given situation, and able to understand its output to make financial decisions. -->
+
+<!-- -  **Spreadsheet Skills**:  The above does not mean you do not need to know how to calculate financial values.  You need to be able to do so in a spreadsheet, and increasingly with some programming language (python, javascript, R, etc). The point here is that the correct calculation is the minimal amount of work you can do.  It is the easiest part.  The harder, and more important aspect, is understanding what you are doing.  -->
+
+<!-- -  Accordingly many *computation* questions on the exams can be solved through logic---knowing that 3 of 4 potential answers are not possible. -->
+
+* Tentative Outline by Week
+
+- 1/22: Chapter 1 & 2
+- 1/28:  Chapter 3 and 4
+- 2/4: Chapter  5
+- 2/11: Chapter 6
+- 2/18: <span style="color:green">*Exam Review*</span>
+- 2/25: <span style="color:red">**Exam 1**</span> & Chapter 7
+- 3/4: Chapter 8
+- 3/11: Spring Break
+- 3/18: Chapter 9
+- 3/25: Chapter 10 and 11
+- 4/1:  <span style="color:green">*Exam Review*</span>
+- 4/8: <span style="color:red">**Exam 2**</span> & Chapter 12
+- 4/15: Chapter 13 and 14
+- 4/22: Chapter 15
+- 4/29: exam review
+
+
+<!-- - 8/26: Chapter 1 & 2 -->
+<!-- - 9/2:  Chapter 3 and 4 -->
+<!-- - 9/9: Chapter  5 -->
+<!-- - 9/16: Chapter 6 -->
+<!-- - 9/23: <span style="color:green">*Exam Review*</span> -->
+<!-- - 9/30: <span style="color:red">**Exam 1**</span> & Chapter 7 -->
+<!-- - 10/7: Chapter 8 -->
+<!-- - 10/14: Chapter 9 -->
+<!-- - 10/21: Chapter 10 and 11 -->
+<!-- - 10/28:  <span style="color:green">*Exam Review*</span> -->
+<!-- - 11/4: <span style="color:red">**Exam 2**</span> & Chapter 12 -->
+<!-- - 11/11: Chapter 13 and 14 -->
+<!-- - 11/18: Chapter 15 -->
+<!-- - 11/25: exam review -->
+<!-- - 12/2: exam review -->
+
+
+* Communication by Email
+
+** When It Is Appropriate
+
+This is an in-class course, and you are responsible for knowing what has taken place in class.  In the case of an unexcused absence, you should come by office hours or talk with classmates to learn what you missed. It is not appropriate to email me.
+
+In the case of an absence due to medical or family emergency, you can email me your documentation along with questions regarding what you missed.  However you can also stop by office hours if convenient.
+
+** How to Write an Email
+
+=Subject:= FIN 302: [Clear Subject Here]
+
+=Body:=
+
+Dear Professor (or Dr.) Brigida,
+
+[Text of email here.]
+
+Sincerely, 
+
+[Your name.]
+
+
+#+BEGIN_COMMENT
+
+# * A note on learning in the course and in finance generally:
+
+In this course I will teach you how to answer questions, and solve financial problems.  This is different than teaching you the answers to text questions, and the distinction here is important.  When you start to work you will be faced with unique financial situations and problems to solve.  You will have to figure out how to solve the problem.  To do so you will apply the concepts and skills you learn in this course to your particular situation.  You will never be faced with a textbook problem while working however.   
+
+As a practical example, it makes much more sense for you to ask me "how do I solve this problem", rather than "what is the answer to this problem".  You might say, 'well I just want to check if my work is correct'.  If this is the case, then show me the work, so I can see both how you solved it and your numerical answer.
+#+END_COMMENT
