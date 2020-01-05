@@ -58,7 +58,10 @@ There will be three exams (two during the semester and a final).  The exams will
 
 * Project
 
+#+begin_comment
 <!-- add project with banking research data set here -->
+#+end_comment
+
 
 In groups, students will either:
 
@@ -103,6 +106,13 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 +/- grades may be assigned at the instructors discretion.
 #+END_QUOTE
 
+** An Important Note on Grading
+
+#+BEGIN_QUOTE
+There is no special consideration if you need a certain grade in this course to graduate.  **If you require a certain grade in this class to graduate it is your responsibility to earn that grade.** Specifically if you receive a `D` in this course I will not allow you to do extra assignments after the course is complete in exchange for a higher grade. 
+#+END_QUOTE
+
+
 * Guidelines and Accommodations
 
 Academic Integrity Policy Students Enrolled in this course are required to understand and fully comply with all aspects of the Academic Integrity Policy as described in the SUNY Polytechnic Institute Handbook (available at:  https://sunypoly.edu/pdf/student_handbook.pdf )
@@ -123,31 +133,25 @@ Accommodations are implemented to ensure compliance with the Americans with Disa
 
 The Disabilities Services Office is happy to advocate or coordinate with outside service providers, by student request and with written consent to communicate. Parents should be aware that legal rights and responsibilities change from high school to the college, both in terms of the type of support provided and in terms of parental involvement in the process. Students are solely responsible for self-identifying and following up with our office for any needs that they may have. Any student who wishes to have our office communicate with a parent must sign a written consent for permission to communicate.
 
-** Course Syllabus Disclosure Statement Spring 2019
+** Course Syllabus Disclosure Statement Spring 2020
 
->Accommodations for Students with Disabilities
+#+begin_quote
+Accommodations for Students with Disabilities
 
->In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services.  For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.
+In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services.  For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.
 
->Evelyn Lester, Director
->Office of Disability Services
->lestere@sunypoly.edu
->(315) 792-7170
->
->Utica Campus
->Peter J. Cayan Library, L145
->
->Albany Campus
->Suite 309, Students Services Office
->NanoFab South
+Evelyn Lester, Director
+Office of Disability Services
+lestere@sunypoly.edu
+(315) 792-7170
 
-<!-- * Instructor's Notes -->
+Utica Campus
+Peter J. Cayan Library, L145
 
-<!-- -  **Understanding vs Computation**: This course will focus on understanding financial concepts over merely calculating a number. Any calculation you will see as an undergrad has already been implemented in 20+ different programming languages.  You will never get a job as a calculator.  The value of the financial analyst is in undertanding what a calculation does, what the output means, etc.  You must be able to use the appropriate calculation in a given situation, and able to understand its output to make financial decisions. -->
-
-<!-- -  **Spreadsheet Skills**:  The above does not mean you do not need to know how to calculate financial values.  You need to be able to do so in a spreadsheet, and increasingly with some programming language (python, javascript, R, etc). The point here is that the correct calculation is the minimal amount of work you can do.  It is the easiest part.  The harder, and more important aspect, is understanding what you are doing.  -->
-
-<!-- -  Accordingly many *computation* questions on the exams can be solved through logic---knowing that 3 of 4 potential answers are not possible. -->
+Albany Campus
+Suite 309, Students Services Office
+NanoFab South
+#+end_quote
 
 * Tentative Outline by Week
 
@@ -167,7 +171,7 @@ The Disabilities Services Office is happy to advocate or coordinate with outside
 - 4/22: Chapter 15
 - 4/29: exam review
 
-
+#+begin_comment
 <!-- - 8/26: Chapter 1 & 2 -->
 <!-- - 9/2:  Chapter 3 and 4 -->
 <!-- - 9/9: Chapter  5 -->
@@ -183,6 +187,7 @@ The Disabilities Services Office is happy to advocate or coordinate with outside
 <!-- - 11/18: Chapter 15 -->
 <!-- - 11/25: exam review -->
 <!-- - 12/2: exam review -->
+#+end_comment
 
 
 * Communication by Email
@@ -207,6 +212,16 @@ Sincerely,
 
 [Your name.]
 
+** How Not to Write and Email
+
+=Subject:= Missed Class [I don't know what class you are in.]
+
+=Body:=
+
+Matthew, [Wrong, we are not on a first name basis.]
+
+Can you tell me what I missed?  [No, you are responsible.]
+
 
 #+BEGIN_COMMENT
 
@@ -216,3 +231,13 @@ In this course I will teach you how to answer questions, and solve financial pro
 
 As a practical example, it makes much more sense for you to ask me "how do I solve this problem", rather than "what is the answer to this problem".  You might say, 'well I just want to check if my work is correct'.  If this is the case, then show me the work, so I can see both how you solved it and your numerical answer.
 #+END_COMMENT
+
+#+begin_comment
+<!-- * Instructor's Notes -->
+
+<!-- -  **Understanding vs Computation**: This course will focus on understanding financial concepts over merely calculating a number. Any calculation you will see as an undergrad has already been implemented in 20+ different programming languages.  You will never get a job as a calculator.  The value of the financial analyst is in undertanding what a calculation does, what the output means, etc.  You must be able to use the appropriate calculation in a given situation, and able to understand its output to make financial decisions. -->
+
+<!-- -  **Spreadsheet Skills**:  The above does not mean you do not need to know how to calculate financial values.  You need to be able to do so in a spreadsheet, and increasingly with some programming language (python, javascript, R, etc). The point here is that the correct calculation is the minimal amount of work you can do.  It is the easiest part.  The harder, and more important aspect, is understanding what you are doing.  -->
+
+<!-- -  Accordingly many *computation* questions on the exams can be solved through logic---knowing that 3 of 4 potential answers are not possible. -->
+#+end_comment
