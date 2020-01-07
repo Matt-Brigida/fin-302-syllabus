@@ -200,9 +200,9 @@ In the case of an absence due to medical or family emergency, you can email me y
 
 ** How to Write an Email
 
-=Subject:= FIN 302: [Clear Subject Here]
+~Subject:~ FIN 302: [Clear Subject Here]
 
-=Body:=
+~Body:~
 
 Dear Professor (or Dr.) Brigida,
 
@@ -214,9 +214,9 @@ Sincerely,
 
 ** How Not to Write and Email
 
-=Subject:= Missed Class [I don't know what class you are in.]
+~Subject:~ Missed Class [I don't know what class you are in.]
 
-=Body:=
+~Body:~
 
 Matthew, [Wrong, we are not on a first name basis.]
 
