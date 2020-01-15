@@ -14,7 +14,7 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 **Office**: Donovan 1277
 
-**Office Hours**: Tuesday and Wednesday 4:30--6:00
+**Office Hours**: Monday and Wednesday 2--3pm, and Tuesday 5:00--6:00
 
 **Email**:  matthew.brigida@sunyit.edu
 
@@ -55,7 +55,6 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 
 There will be three exams (two during the semester and a final).  The exams will be multiple choice.
 
-
 * Project
 
 #+begin_comment
@@ -88,7 +87,9 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 | Final Exam                                 |     25 |
 | Project                                    |     15 |
 | Attendance/Pop Quizzes/Other Participation |     20 |
+|--------------------------------------------+--------|
 | Total Points                               |    100 |
+|--------------------------------------------+--------|
 
 #+END_CENTER
 
@@ -155,18 +156,18 @@ NanoFab South
 
 * Tentative Outline by Week
 
-- 1/22: Chapter 1 & 2
+- 1/21: Chapter 1 & 2
 - 1/28:  Chapter 3 and 4
 - 2/4: Chapter  5
 - 2/11: Chapter 6
-- 2/18: <span style="color:green">*Exam Review*</span>
-- 2/25: <span style="color:red">**Exam 1**</span> & Chapter 7
-- 3/4: Chapter 8
-- 3/11: Spring Break
-- 3/18: Chapter 9
-- 3/25: Chapter 10 and 11
-- 4/1:  <span style="color:green">*Exam Review*</span>
-- 4/8: <span style="color:red">**Exam 2**</span> & Chapter 12
+- 2/18: @@html:<span style="color:red">**Exam 1**</span>@@
+- 2/25: Chapter 7
+- 3/3: Chapter 8
+- 3/10: Chapter 9
+- 3/17: Spring Break
+- 3/24: Chapter 10
+- 4/1:  Chapter 11 & Chapter 12
+- 4/7: @@html:<span style="color:red">**Exam 2**</span>@@
 - 4/15: Chapter 13 and 14
 - 4/22: Chapter 15
 - 4/29: exam review
@@ -214,13 +215,13 @@ Sincerely,
 
 ** How Not to Write and Email
 
-~Subject:~ Missed Class [I don't know what class you are in.]
+~Subject:~ Missed Class (I don't know what class you are in.)
 
 ~Body:~
 
-Matthew, [Wrong, we are not on a first name basis.]
+Matthew, (Wrong, we are not on a first name basis.)
 
-Can you tell me what I missed?  [No, you are responsible.]
+Can you tell me what I missed?  (No, you are responsible.)
 
 
 #+BEGIN_COMMENT
