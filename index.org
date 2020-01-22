@@ -191,37 +191,37 @@ NanoFab South
 #+end_comment
 
 
-* Communication by Email
+# * Communication by Email
 
-** When It Is Appropriate
+# ** When It Is Appropriate
 
-This is an in-class course, and you are responsible for knowing what has taken place in class.  In the case of an unexcused absence, you should come by office hours or talk with classmates to learn what you missed. It is not appropriate to email me.
+# This is an in-class course, and you are responsible for knowing what has taken place in class.  In the case of an unexcused absence, you should come by office hours or talk with classmates to learn what you missed. It is not appropriate to email me.
 
-In the case of an absence due to medical or family emergency, you can email me your documentation along with questions regarding what you missed.  However you can also stop by office hours if convenient.
+# In the case of an absence due to medical or family emergency, you can email me your documentation along with questions regarding what you missed.  However you can also stop by office hours if convenient.
 
-** How to Write an Email
+# ** How to Write an Email
 
-~Subject:~ FIN 302: [Clear Subject Here]
+# ~Subject:~ FIN 302: [Clear Subject Here]
 
-~Body:~
+# ~Body:~
 
-Dear Professor (or Dr.) Brigida,
+# Dear Professor (or Dr.) Brigida,
 
-[Text of email here.]
+# [Text of email here.]
 
-Sincerely, 
+# Sincerely, 
 
-[Your name.]
+# [Your name.]
 
-** How Not to Write and Email
+# ** How Not to Write and Email
 
-~Subject:~ Missed Class (I don't know what class you are in.)
+# ~Subject:~ Missed Class (I don't know what class you are in.)
 
-~Body:~
+# ~Body:~
 
-Matthew, (Wrong, we are not on a first name basis.)
+# Matthew, (Wrong, we are not on a first name basis.)
 
-Can you tell me what I missed?  (No, you are responsible.)
+# Can you tell me what I missed?  (No, you are responsible.)
 
 
 #+BEGIN_COMMENT
