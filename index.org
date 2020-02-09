@@ -24,7 +24,9 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 **Text**: [[https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=][Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463]] | [[https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used][Used Copies usually starting from about $4]] You also may use other editions of the text.
 
-**Supplementary Materials**: [[https://www.5minutefinance.org/][5-Minute Finance]] There may be additional topics in the [[https://github.com/FinancialMarkets/5MinuteFinance][Fundamentals and Corporate Finance Sections here]].
+**Supplementary Materials**: 
++ [[https://financial-education.github.io/intro_corp_fin.html][Financial Education]]
++ The above links to make of the presentation at [[https://www.5minutefinance.org/][5-Minute Finance,]] specifically the presentations listed in the [[https://github.com/FinancialMarkets/5MinuteFinance][Fundamentals and Corporate Finance Sections here]].
 
 
 * Description
