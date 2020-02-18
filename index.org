@@ -57,6 +57,8 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 
 There will be three exams (two during the semester and a final).  The exams will be multiple choice.
 
+Failure to take an exam will result in a grade of 0, unless it is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+
 * Project
 
 #+begin_comment
