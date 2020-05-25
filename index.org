@@ -18,9 +18,11 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 **Email**:  matthew.brigida@sunyit.edu
 
-**Class Location**:  Donovan 1157
+# **Class Location**:  Donovan 1157
+**Class Location**: Online
 
-**Class Day/Time**: Tuesday, 6:00--9:30pm
+# **Class Day/Time**: Tuesday, 6:00--9:30pm
+**Class Day/Time**: Asynchronous online.
 
 **Text**: [[https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=][Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463]] | [[https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used][Used Copies usually starting from about $4]] You also may use other editions of the text.
 
@@ -159,7 +161,10 @@ NanoFab South
 #+end_quote
 
 * Tentative Outline by Week
+  
+We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.
 
+#+begin_comment
 - 1/21: Chapter 1 & 2
 - 1/28:  Chapter 3 and 4
 - 2/4: Chapter  5
@@ -175,6 +180,7 @@ NanoFab South
 - 4/15: Chapter 13 and 14
 - 4/22: Chapter 15
 - 4/29: exam review
+#+end_comment
 
 #+begin_comment
 <!-- - 8/26: Chapter 1 & 2 -->
