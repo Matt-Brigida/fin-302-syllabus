@@ -57,17 +57,23 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 
 * Exams
 
+#+begin_comment
 There will be three exams (two during the semester and a final).  The exams will be multiple choice.
+#+end_comment
+
+There will be two exams.  The exams will be multiple choice.
 
 Failure to take an exam will result in a grade of 0, unless it is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
 
 * Project
 
+There will be no project over the summer semester.
+
 #+begin_comment
 <!-- add project with banking research data set here -->
 #+end_comment
 
-
+#+begin_comment
 In groups, students will either:
 
 1.  Value a tolling agreement on a natural gas fired power plant near Boston Mass via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money.  [[https://www.eia.gov/electricity/wholesale/#history][Data are here]].
@@ -77,6 +83,7 @@ or
 2. Estimate the relationship between capital levels and measures of bank income and performance.
 
 In addition, students will gain experience handling data, and making reasonable assumptions necessary in real-world analyses.
+#+end_comment
 
 * Attendance/Quizzes/Participation
 
@@ -88,14 +95,16 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 
 | Item                                       | Points |
 |--------------------------------------------+--------|
-| Exam 1                                     |     20 |
-| Exam 2                                     |     20 |
-| Final Exam                                 |     25 |
-| Project                                    |     15 |
+| Exam 1                                     |     40 |
+| Exam 2                                     |     40 |
 | Attendance/Pop Quizzes/Other Participation |     20 |
 |--------------------------------------------+--------|
 | Total Points                               |    100 |
 |--------------------------------------------+--------|
+
+# | Final Exam                                 |     25 |
+# | Project                                    |     15 |
+
 
 #+END_CENTER
 
@@ -162,7 +171,10 @@ NanoFab South
 
 * Tentative Outline by Week
   
-We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.
+We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams are below:
+
+- June 26: Exam 1 Due
+- July 16: Exam 2 Due
 
 #+begin_comment
 - 1/21: Chapter 1 & 2
