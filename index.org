@@ -1,5 +1,5 @@
 #+TITLE:Syllabus (FIN 302) Financial Management Principles
-#+AUTHOR:
+#+AUTHOR: Matthew Brigida, Ph.D.
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
 
 
@@ -9,22 +9,24 @@ SUNY POLYTECHNIC INSTITUTE
 SCHOOL OF BUSINESS ADMINISTRATION
 #+END_CENTER
 
-
 **Instructor**: Matthew Brigida, Ph.D.
 
 **Office**: Donovan 1277
 
-**Office Hours**: Monday and Wednesday 2--3pm, and Tuesday 5:00--6:00
+**Office Hours**: Tuesday and Wednesday 3:30--6:00
+## Monday and Wednesday 2--3pm,
 
 **Email**:  matthew.brigida@sunyit.edu
 
 # **Class Location**:  Donovan 1157
-**Class Location**: Online
+**Class Location**: Online and CPCTR 0124
 
 # **Class Day/Time**: Tuesday, 6:00--9:30pm
-**Class Day/Time**: Asynchronous online.
+**Class Day/Time**: Asynchronous online and Wednesday 6:00pm to 9:30pm 
 
 **Text**: [[https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=][Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463]] | [[https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used][Used Copies usually starting from about $4]] You also may use other editions of the text.
+
+**Lecture Videos**: [[https://www.youtube.com/playlist?list=PLRK1VeglPb4MpA0hq3lhLn8olIz3NLai1][Introduction to Corporate Finance]] 
 
 **Supplementary Materials**: 
 + [[https://financial-education.github.io/intro_corp_fin.html][Financial Education]]
@@ -57,11 +59,11 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 
 * Exams
 
-#+begin_comment
 There will be three exams (two during the semester and a final).  The exams will be multiple choice.
-#+end_comment
 
+#+begin_comment
 There will be two exams.  The exams will be multiple choice.
+#+end_comment
 
 Failure to take an exam will result in a grade of 0, unless it is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
 
@@ -86,25 +88,29 @@ In addition, students will gain experience handling data, and making reasonable 
 #+end_comment
 
 * Attendance/Quizzes/Participation
+  
+Your attendance will not affect your grade.  There is no penalty for missing class. 
 
+#+begin_comment
 Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+#+end_comment
 
 * Grading
 
 #+BEGIN_CENTER
 
-| Item                                       | Points |
-|--------------------------------------------+--------|
-| Exam 1                                     |     40 |
-| Exam 2                                     |     40 |
-| Attendance/Pop Quizzes/Other Participation |     20 |
-|--------------------------------------------+--------|
-| Total Points                               |    100 |
-|--------------------------------------------+--------|
+| Item         | Points |
+|--------------+--------|
+| Exam 1       |     30 |
+| Exam 2       |     30 |
+| Final Exam   |     40 |
+|--------------+--------|
+| Total Points |    100 |
+|--------------+--------|
 
 # | Final Exam                                 |     25 |
 # | Project                                    |     15 |
-
+# | Attendance/Quizzes/Participation           |     20 | 
 
 #+END_CENTER
 
@@ -128,6 +134,154 @@ Throughout the semester I will take attendance, give unanounced quizzes, and oth
 There is no special consideration if you need a certain grade in this course to graduate.  **If you require a certain grade in this class to graduate it is your responsibility to earn that grade.** Specifically if you receive a `D` in this course I will not allow you to do extra assignments after the course is complete in exchange for a higher grade. 
 #+END_QUOTE
 
+
+
+* Tentative Outline by Week
+  
+We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams are below:
+
+#+begin_comment
+- June 26: Exam 1 Due
+- July 16: Exam 2 Due
+#+end_comment
+
+#+begin_comment
+- 1/21: Chapter 1 & 2
+- 1/28:  Chapter 3 and 4
+- 2/4: Chapter  5
+- 2/11: Chapter 6
+- 2/18: @@html:<span style="color:red">**Exam 1**</span>@@
+- 2/25: Chapter 7
+- 3/3: Chapter 8
+- 3/10: Chapter 9
+- 3/17: Spring Break
+- 3/24: Chapter 10
+- 4/1:  Chapter 11 & Chapter 12
+- 4/7: @@html:<span style="color:red">**Exam 2**</span>@@
+- 4/15: Chapter 13 and 14
+- 4/22: Chapter 15
+- 4/29: exam review
+#+end_comment
+
+- 8/26: Chapter 1 & 2 
+- 9/2:  Chapter 3 and 4 
+- 9/9: Chapter  5 
+- 9/16: Chapter 6 
+- 9/23: <span style="color:green">*Exam Review*</span> 
+- 9/30: <span style="color:red">**Exam 1**</span> & Chapter 7 
+- 10/7: Chapter 8 
+- 10/14: Chapter 9 
+- 10/21: Chapter 10 and 11 
+- 10/28:  <span style="color:green">*Exam Review*</span> 
+- 11/4: <span style="color:red">**Exam 2**</span> & Chapter 12 
+- 11/11: Chapter 13 and 14 
+- 11/18: Chapter 15 
+- 11/25: exam review 
+- 12/2: exam review 
+  
+
+#+begin_comment
+ Lecture Videos by Chapter
+
+- Intro and Chapter 1
+
+#+BEGIN_EXPORT html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kkGcNM2yOaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></frame>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WDXreexyIoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJxm-jzi2bM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MI4BCgS883c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_EXPORT
+
+- Chapter 2
+  
+
+
+- Chapter 3
+- Chapter 4
+- Chapter 5
+- Chapter 6
+- Chapter 7
+- Chapter 8
+- Chapter 9
+- Chapter 10
+- Chapter 11
+- Chapter 12
+
+
+#+end_comment
+
+* How To Ask Questions
+
+[[https://stackoverflow.com/help/how-to-ask][See this post.]]  
+
+* Email Communication
+
+Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 302). 
+
+
+
+#+begin_comment
+# * Communication by Email
+
+# ** When It Is Appropriate
+
+# This is an in-class course, and you are responsible for knowing what has taken place in class.  In the case of an unexcused absence, you should come by office hours or talk with classmates to learn what you missed. It is not appropriate to email me.
+
+# In the case of an absence due to medical or family emergency, you can email me your documentation along with questions regarding what you missed.  However you can also stop by office hours if convenient.
+
+# ** How to Write an Email
+
+# ~Subject:~ FIN 302: [Clear Subject Here]
+
+# ~Body:~
+
+# Dear Professor (or Dr.) Brigida,
+
+# [Text of email here.]
+
+# Sincerely, 
+
+# [Your name.]
+
+# ** How Not to Write and Email
+
+# ~Subject:~ Missed Class (I don't know what class you are in.)
+
+# ~Body:~
+
+# Matthew, (Wrong, we are not on a first name basis.)
+
+# Can you tell me what I missed?  (No, you are responsible.)
+#+end_comment
+
+
+#+BEGIN_COMMENT
+
+# * A note on learning in the course and in finance generally:
+
+In this course I will teach you how to answer questions, and solve financial problems.  This is different than teaching you the answers to text questions, and the distinction here is important.  When you start to work you will be faced with unique financial situations and problems to solve.  You will have to figure out how to solve the problem.  To do so you will apply the concepts and skills you learn in this course to your particular situation.  You will never be faced with a textbook problem while working however.   
+
+As a practical example, it makes much more sense for you to ask me "how do I solve this problem", rather than "what is the answer to this problem".  You might say, 'well I just want to check if my work is correct'.  If this is the case, then show me the work, so I can see both how you solved it and your numerical answer.
+#+END_COMMENT
+
+#+begin_comment
+<!-- * Instructor's Notes -->
+
+<!-- -  **Understanding vs Computation**: This course will focus on understanding financial concepts over merely calculating a number. Any calculation you will see as an undergrad has already been implemented in 20+ different programming languages.  You will never get a job as a calculator.  The value of the financial analyst is in undertanding what a calculation does, what the output means, etc.  You must be able to use the appropriate calculation in a given situation, and able to understand its output to make financial decisions. -->
+
+<!-- -  **Spreadsheet Skills**:  The above does not mean you do not need to know how to calculate financial values.  You need to be able to do so in a spreadsheet, and increasingly with some programming language (python, javascript, R, etc). The point here is that the correct calculation is the minimal amount of work you can do.  It is the easiest part.  The harder, and more important aspect, is understanding what you are doing.  -->
+
+<!-- -  Accordingly many *computation* questions on the exams can be solved through logic---knowing that 3 of 4 potential answers are not possible. -->
+#+end_comment
 
 * Guidelines and Accommodations
 
@@ -168,99 +322,3 @@ Albany Campus
 Suite 309, Students Services Office
 NanoFab South
 #+end_quote
-
-* Tentative Outline by Week
-  
-We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams are below:
-
-- June 26: Exam 1 Due
-- July 16: Exam 2 Due
-
-#+begin_comment
-- 1/21: Chapter 1 & 2
-- 1/28:  Chapter 3 and 4
-- 2/4: Chapter  5
-- 2/11: Chapter 6
-- 2/18: @@html:<span style="color:red">**Exam 1**</span>@@
-- 2/25: Chapter 7
-- 3/3: Chapter 8
-- 3/10: Chapter 9
-- 3/17: Spring Break
-- 3/24: Chapter 10
-- 4/1:  Chapter 11 & Chapter 12
-- 4/7: @@html:<span style="color:red">**Exam 2**</span>@@
-- 4/15: Chapter 13 and 14
-- 4/22: Chapter 15
-- 4/29: exam review
-#+end_comment
-
-#+begin_comment
-<!-- - 8/26: Chapter 1 & 2 -->
-<!-- - 9/2:  Chapter 3 and 4 -->
-<!-- - 9/9: Chapter  5 -->
-<!-- - 9/16: Chapter 6 -->
-<!-- - 9/23: <span style="color:green">*Exam Review*</span> -->
-<!-- - 9/30: <span style="color:red">**Exam 1**</span> & Chapter 7 -->
-<!-- - 10/7: Chapter 8 -->
-<!-- - 10/14: Chapter 9 -->
-<!-- - 10/21: Chapter 10 and 11 -->
-<!-- - 10/28:  <span style="color:green">*Exam Review*</span> -->
-<!-- - 11/4: <span style="color:red">**Exam 2**</span> & Chapter 12 -->
-<!-- - 11/11: Chapter 13 and 14 -->
-<!-- - 11/18: Chapter 15 -->
-<!-- - 11/25: exam review -->
-<!-- - 12/2: exam review -->
-#+end_comment
-
-
-# * Communication by Email
-
-# ** When It Is Appropriate
-
-# This is an in-class course, and you are responsible for knowing what has taken place in class.  In the case of an unexcused absence, you should come by office hours or talk with classmates to learn what you missed. It is not appropriate to email me.
-
-# In the case of an absence due to medical or family emergency, you can email me your documentation along with questions regarding what you missed.  However you can also stop by office hours if convenient.
-
-# ** How to Write an Email
-
-# ~Subject:~ FIN 302: [Clear Subject Here]
-
-# ~Body:~
-
-# Dear Professor (or Dr.) Brigida,
-
-# [Text of email here.]
-
-# Sincerely, 
-
-# [Your name.]
-
-# ** How Not to Write and Email
-
-# ~Subject:~ Missed Class (I don't know what class you are in.)
-
-# ~Body:~
-
-# Matthew, (Wrong, we are not on a first name basis.)
-
-# Can you tell me what I missed?  (No, you are responsible.)
-
-
-#+BEGIN_COMMENT
-
-# * A note on learning in the course and in finance generally:
-
-In this course I will teach you how to answer questions, and solve financial problems.  This is different than teaching you the answers to text questions, and the distinction here is important.  When you start to work you will be faced with unique financial situations and problems to solve.  You will have to figure out how to solve the problem.  To do so you will apply the concepts and skills you learn in this course to your particular situation.  You will never be faced with a textbook problem while working however.   
-
-As a practical example, it makes much more sense for you to ask me "how do I solve this problem", rather than "what is the answer to this problem".  You might say, 'well I just want to check if my work is correct'.  If this is the case, then show me the work, so I can see both how you solved it and your numerical answer.
-#+END_COMMENT
-
-#+begin_comment
-<!-- * Instructor's Notes -->
-
-<!-- -  **Understanding vs Computation**: This course will focus on understanding financial concepts over merely calculating a number. Any calculation you will see as an undergrad has already been implemented in 20+ different programming languages.  You will never get a job as a calculator.  The value of the financial analyst is in undertanding what a calculation does, what the output means, etc.  You must be able to use the appropriate calculation in a given situation, and able to understand its output to make financial decisions. -->
-
-<!-- -  **Spreadsheet Skills**:  The above does not mean you do not need to know how to calculate financial values.  You need to be able to do so in a spreadsheet, and increasingly with some programming language (python, javascript, R, etc). The point here is that the correct calculation is the minimal amount of work you can do.  It is the easiest part.  The harder, and more important aspect, is understanding what you are doing.  -->
-
-<!-- -  Accordingly many *computation* questions on the exams can be solved through logic---knowing that 3 of 4 potential answers are not possible. -->
-#+end_comment
