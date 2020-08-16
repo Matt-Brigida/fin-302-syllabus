@@ -22,7 +22,7 @@ SCHOOL OF BUSINESS ADMINISTRATION
 **Class Location**: Online
 
 # **Class Day/Time**: Tuesday, 6:00--9:30pm
-**Class Day/Time**: Synchronous Online Wednesday 6:00pm to 9:30pm.  We will meet via Blackboard Collaborate.
+**Class Day/Time**: Synchronous Online Wednesday 6:00pm to 9:30pm.  We will meet via Blackboard Collaborate. All lectures will be recorded.
 
 **Text**: [[https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=][Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463]] | [[https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used][Used Copies usually starting from about $4]] You also may use other editions of the text.
 
@@ -92,12 +92,13 @@ In addition, students will gain experience handling data, and making reasonable 
 #+end_comment
 
 * Attendance/Quizzes/Participation
-  
-Your attendance will not affect your grade.  There is no penalty for missing class. 
 
-#+begin_comment
-Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+#+begin_comment  
+Your attendance will not affect your grade.  There is no penalty for missing class. 
 #+end_comment
+
+Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+
 
 * Grading
 
