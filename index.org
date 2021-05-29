@@ -1,6 +1,6 @@
 #+TITLE:Syllabus (FIN 302) Financial Management Principles
 #+AUTHOR: Matthew Brigida, Ph.D.
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 # #+options: toc:nil
 
 
