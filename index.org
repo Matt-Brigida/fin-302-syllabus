@@ -150,10 +150,8 @@ There is no special consideration if you need a certain grade in this course to 
   
 We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams are below:
 
-#+begin_comment
-- June 26: Exam 1 Due
-- July 16: Exam 2 Due
-#+end_comment
+- June 18: Exam 1 Due
+- July 27: Exam 2 Due
 
 #+begin_comment
 - 1/21: Chapter 1 & 2
