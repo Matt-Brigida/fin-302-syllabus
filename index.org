@@ -12,15 +12,21 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: Online Fall 2020 | On Campus Office is Donovan 1277
+**Office**: Online Summer 2021 | On Campus Office is Donovan 1277
 
-**Office Hours**: Wednesday 4:00--6:00, I will be in a BB Collaborate session.  Feel free to log in and ask questions.
+**Office Hours**: On-request I will create a BB Collaborate session, where you can log in and ask questions.
+#+begin_comment
+## Monday and Wednesday 4--6pm
+#+end_comment
 
-**Email**:  matthew.brigida@sunyit.edu
+**Email**:  matthew.brigida@sunypoly.edu
 
-**Class Location**: Online (Synchronous)
+**Class Location**: Online (Asynchronous)
 
-**Class Day/Time**: Synchronous Online Wednesday 6:00pm to 9:30pm.  We will meet via Blackboard Collaborate. All lectures will also be recorded.
+**Class Day/Time**: Asynchronous Online
+#+begin_comment
+##Wednesday 6:00pm to 9:30pm.  We will meet via Blackboard Collaborate. All lectures will also be recorded.
+#+end_comment
 
 **Text**: [[https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=][Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463]] | [[https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used][Used Copies usually starting from about $4]] You also may use other editions of the text.
 
@@ -57,21 +63,21 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 
 * Exams
 
+#+begin_comment
 There will be three exams (two during the semester and a final exam).  All exams will be multiple choice.
 
 Failure to take an exam will result in a grade of 0, unless it is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
+#+end_comment
 
-#+begin_comment
 There will be two exams.  The exams will be multiple choice.
-#+end_comment
 
-* Project
-
-Value a tolling agreement on a natural gas fired power plant near Boston Mass via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money.  [[https://www.eia.gov/electricity/wholesale/#history][Data are here]].
+* Assignments
 
 #+begin_comment
-There will be no project over the summer semester.
+Value a tolling agreement on a natural gas fired power plant near Boston Mass via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money.  [[https://www.eia.gov/electricity/wholesale/#history][Data are here]].
 #+end_comment
+
+There are 4 assignments under Content > Assignments in BackBoard.
 
 #+begin_comment
 <!-- add project with banking research data set here -->
@@ -92,26 +98,25 @@ In addition, students will gain experience handling data, and making reasonable 
 
 * Attendance/Quizzes/Participation
 
+#+begin_comment
 Throughout the semester I will take attendance, give unanounced quizzes, and otherwise evaluate your participation.  Failure to attend class and participate will reduce your participation score, unless your absence is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
-
-#+begin_comment  
-Your attendance will not affect your grade.  There is no penalty for missing class. 
 #+end_comment
 
+There is no attendance/participation grade.
 
 * Grading
 
 #+BEGIN_CENTER
 
-| Item                             | Points |
-|----------------------------------+--------|
-| Exam 1                           |     25 |
-| Exam 2                           |     25 |
-| Final Exam                       |     30 |
-| Attendance/Project/Participation |     20 |
-|----------------------------------+--------|
-| Total Points                     |    100 |
-|----------------------------------+--------|
+| Item         | Points |
+|--------------+--------|
+| Exam 1       |     25 |
+| Exam 2       |     25 |
+| Final Exam   |     30 |
+| Assignments  |     20 |
+|--------------+--------|
+| Total Points |    100 |
+|--------------+--------|
 
 # | Final Exam                                 |     25 |
 # | Project                                    |     15 |
