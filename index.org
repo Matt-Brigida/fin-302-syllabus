@@ -171,6 +171,7 @@ We will cover chapters 1 through 14.  Since this course is asynchronous, you hav
 - 4/29: exam review
 #+end_comment
 
+#+begin_comment
 - 8/26: Chapter 1 & 2 
 - 9/2:  Chapter 3 and 4 
 - 9/9: Chapter  5 
@@ -185,7 +186,8 @@ We will cover chapters 1 through 14.  Since this course is asynchronous, you hav
 - 11/11: Chapter 13 and 14 
 - 11/18: Chapter 15 
 - 11/25: exam review 
-- 12/2: exam review 
+- 12/2: exam review
+#+end_comment
   
 
 #+begin_comment
