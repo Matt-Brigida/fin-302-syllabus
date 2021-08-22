@@ -12,12 +12,9 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: Online Summer 2021 | On Campus Office is Donovan 1277
+**Office**: Online Fall 2021 | On Campus Office is Donovan 1277
 
-**Office Hours**: On-request I will create a BB Collaborate session, where you can log in and ask questions.
-#+begin_comment
-## Monday and Wednesday 4--6pm
-#+end_comment
+**Office Hours**: Monday and Wednesday 12--2pm, and on-request I will create a BB Collaborate session where you can log in and ask questions.
 
 **Email**:  matthew.brigida@sunypoly.edu
 
@@ -30,12 +27,9 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 **Text**: [[https://www.amazon.com/dp/0073382469/ref=olp_product_details?_encoding=UTF8&me=][Essentials of Corporate Finance, 7th ed, ISBN: 978-0073382463]] | [[https://www.amazon.com/gp/offer-listing/0073382469/ref=dp_olp_used?ie=UTF8&condition=used][Used Copies usually starting from about $4]] You also may use other editions of the text.
 
-**Lecture Videos**: [[https://www.youtube.com/playlist?list=PLRK1VeglPb4MpA0hq3lhLn8olIz3NLai1][Introduction to Corporate Finance]] 
+**Lecture Videos**: [[https://www.youtube.com/playlist?list=PLRK1VeglPb4MpA0hq3lhLn8olIz3NLai1][Introduction to Corporate Finance]]
 
-**Supplementary Materials**: 
-+ [[https://financial-education.github.io/intro_corp_fin.html][Financial Education]]
-+ The above links to make of the presentation at [[https://www.5minutefinance.org/][5-Minute Finance,]] specifically the presentations listed in the [[https://github.com/FinancialMarkets/5MinuteFinance][Fundamentals and Corporate Finance Sections here]].
-
+**Lecture Notes**: [[https://financial-education.github.io/intro_corp_fin.html][Financial Education]]
 
 * Description
 
@@ -191,9 +185,12 @@ We will cover chapters 1 through 14.  Since this course is asynchronous, you hav
   
 
 #+begin_comment
- Lecture Videos by Chapter
 
-- Intro and Chapter 1
+* Lecture Notes by Topic
+
+[[https://financial-education.github.io/intro_corp_fin.html][List of Lecture Notes]]
+
+* Lecture Videos by Chapter
 
 #+BEGIN_EXPORT html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkGcNM2yOaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></frame>
@@ -210,22 +207,6 @@ We will cover chapters 1 through 14.  Since this course is asynchronous, you hav
 #+BEGIN_EXPORT html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MI4BCgS883c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+END_EXPORT
-
-- Chapter 2
-  
-
-
-- Chapter 3
-- Chapter 4
-- Chapter 5
-- Chapter 6
-- Chapter 7
-- Chapter 8
-- Chapter 9
-- Chapter 10
-- Chapter 11
-- Chapter 12
-
 
 #+end_comment
 
@@ -313,11 +294,28 @@ Accommodations are implemented to ensure compliance with the Americans with Disa
 
 The Disabilities Services Office is happy to advocate or coordinate with outside service providers, by student request and with written consent to communicate. Parents should be aware that legal rights and responsibilities change from high school to the college, both in terms of the type of support provided and in terms of parental involvement in the process. Students are solely responsible for self-identifying and following up with our office for any needs that they may have. Any student who wishes to have our office communicate with a parent must sign a written consent for permission to communicate.
 
-** Course Syllabus Disclosure Statement Spring 2020
+** Course Syllabus Disclosure Statement Fall 2021
 
 #+begin_quote
 Accommodations for Students with Disabilities
 
+In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services.  Please request accommodations early in the semester, or as soon as you become registered with Disability Services, so that we have adequate time to arrange your approved academic accommodation/s.  Once Disability Services creates your accommodation plan, it is your responsibility to provide me a copy of the accommodation plan.
+
+For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below. 
+
+Leslie K. Reid, Director (she/her/hers)
+Office of Disability Services 
+reidl@sunypoly.edu 
+(315) 792-7170 
+Utica Campus 
+Peter J. Cayan Library, L145 
+Albany Campus 
+Suite 309, Students Services Office 
+NanoFab South 
+#+end_quote
+
+
+#+begin_comment
 In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services.  For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.
 
 Evelyn Lester, Director
@@ -331,4 +329,4 @@ Peter J. Cayan Library, L145
 Albany Campus
 Suite 309, Students Services Office
 NanoFab South
-#+end_quote
+#+end_comment
