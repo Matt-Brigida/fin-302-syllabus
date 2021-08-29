@@ -144,8 +144,9 @@ There is no special consideration if you need a certain grade in this course to 
   
 We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams are below:
 
-- June 25: Exam 1 Due
-- July 27: Exam 2 Due
+- October 1: Exam 1 Due
+- November 19: Exam 2 Due
+- December 13: Final Exam Due
 
 #+begin_comment
 - 1/21: Chapter 1 & 2
@@ -186,11 +187,11 @@ We will cover chapters 1 through 14.  Since this course is asynchronous, you hav
 
 #+begin_comment
 
-* Lecture Notes by Topic
+# * Lecture Notes by Topic
 
 [[https://financial-education.github.io/intro_corp_fin.html][List of Lecture Notes]]
 
-* Lecture Videos by Chapter
+# * Lecture Videos by Chapter
 
 #+BEGIN_EXPORT html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkGcNM2yOaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></frame>
