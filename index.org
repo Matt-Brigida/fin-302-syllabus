@@ -63,7 +63,7 @@ There will be three exams (two during the semester and a final exam).  All exams
 Failure to take an exam will result in a grade of 0, unless it is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
 #+end_comment
 
-There will be two exams.  The exams will be multiple choice.
+There will be three exams.  The exams will be multiple choice. Failure to complete an exam by the due date will result in a grade of 0.
 
 * Assignments
 
