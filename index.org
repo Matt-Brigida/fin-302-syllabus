@@ -142,11 +142,19 @@ There is no special consideration if you need a certain grade in this course to 
 
 * Tentative Outline by Week
   
-We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams are below:
+We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams/assignments are below:
+
+** Exam Due Dates
 
 - October 1: Exam 1 Due
 - November 19: Exam 2 Due
 - December 13: Final Exam Due
+
+** Assignment Due Dates
+
+- October 1: DEF14A and Debt to Equity Ratio
+- November 19: Stock Market and CAPM
+  
 
 #+begin_comment
 - 1/21: Chapter 1 & 2
