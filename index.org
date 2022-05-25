@@ -12,9 +12,10 @@ SCHOOL OF BUSINESS ADMINISTRATION
 
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: Online Fall 2021 | On Campus Office is Donovan 1277
+**Office**: Online Summer 2022 | On Campus Office is Donovan 1277
 
-**Office Hours**: Monday and Wednesday 12--2pm, and on-request I will create a BB Collaborate session where you can log in and ask questions.
+**Office Hours**: On-request I will create a BB Collaborate session where you can log in and ask questions.
+# Monday and Wednesday 12--2pm, and 
 
 **Email**:  matthew.brigida@sunypoly.edu
 
@@ -63,7 +64,7 @@ There will be three exams (two during the semester and a final exam).  All exams
 Failure to take an exam will result in a grade of 0, unless it is due to a **verifiable** medical or family emergency.  In such a case you must provide documentation.
 #+end_comment
 
-There will be three exams.  The exams will be multiple choice. Failure to complete an exam by the due date will result in a grade of 0.
+There will be two exams.  The exams will be multiple choice. Failure to complete an exam by the due date will result in a grade of 0.
 
 * Assignments
 
@@ -71,7 +72,7 @@ There will be three exams.  The exams will be multiple choice. Failure to comple
 Value a tolling agreement on a natural gas fired power plant near Boston Mass via discounted cash flows.  This project will make heavy use of core concepts learned in this course---namely the calculation of cash flows and the time-value-of-money.  [[https://www.eia.gov/electricity/wholesale/#history][Data are here]].
 #+end_comment
 
-There are 4 assignments under Content > Assignments in BackBoard.
+There are 4 assignments under Content > Assignments in BlackBoard.
 
 #+begin_comment
 <!-- add project with banking research data set here -->
@@ -104,9 +105,9 @@ There is no attendance/participation grade.
 
 | Item         | Points |
 |--------------+--------|
-| Exam 1       |     25 |
-| Exam 2       |     25 |
-| Final Exam   |     30 |
+| Exam 1       |     40 |
+| Exam 2       |     40 |
+# | Final Exam   |     30 |
 | Assignments  |     20 |
 |--------------+--------|
 | Total Points |    100 |
@@ -138,22 +139,20 @@ There is no attendance/participation grade.
 There is no special consideration if you need a certain grade in this course to graduate.  **If you require a certain grade in this class to graduate it is your responsibility to earn that grade.** Specifically if you receive a `D` in this course I will not allow you to do extra assignments after the course is complete in exchange for a higher grade. 
 #+END_QUOTE
 
-
-
 * Tentative Outline by Week
   
-We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams/assignments are below:
+We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams/assignments are listed in BlackBoard.
 
-** Exam Due Dates
-
-- October 1: Exam 1 Due
-- November 19: Exam 2 Due
-- December 13: Final Exam Due
-
-** Assignment Due Dates
-
-- October 1: DEF14A and Debt to Equity Ratio
-- November 19: Stock Market and CAPM
+# ** Exam Due Dates
+# 
+# - October 1: Exam 1 Due
+# - November 19: Exam 2 Due
+# - December 13: Final Exam Due
+# 
+# ** Assignment Due Dates
+# 
+# - October 1: DEF14A and Debt to Equity Ratio
+# - November 19: Stock Market and CAPM
   
 
 #+begin_comment

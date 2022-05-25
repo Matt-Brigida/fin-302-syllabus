@@ -3,224 +3,18 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-09-03 Fri 15:15 -->
+<!-- 2022-05-25 Wed 10:54 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Syllabus (FIN 302) Financial Management Principles</title>
-<meta name="generator" content="Org mode" />
 <meta name="author" content="Matthew Brigida, Ph.D." />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: auto;
-    padding-top: 1.2em;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
-    padding: 3px;
-    border: 1px solid black;
-  }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
-
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara { display: inline; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
-  /*]]>*/-->
-</style>
+<meta name="generator" content="Org Mode" />
 <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
 <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
-<script type="text/javascript">
-// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
-<!--/*--><![CDATA[/*><!--*/
-     function CodeHighlightOn(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.add("code-highlighted");
-         target.classList.add("code-highlighted");
-       }
-     }
-     function CodeHighlightOff(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.remove("code-highlighted");
-         target.classList.remove("code-highlighted");
-       }
-     }
-    /*]]>*///-->
-// @license-end
-</script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
         displayAlign: "center",
@@ -241,41 +35,35 @@
              }
 });
 </script>
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
-<div id="content">
+<div id="content" class="content">
 <h1 class="title">Syllabus (FIN 302) Financial Management Principles</h1>
-<div id="table-of-contents">
+<div id="table-of-contents" role="doc-toc">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents">
+<div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org8d09a6c">1. Description</a>
+<li><a href="#orgb1bb0e6">1. Description</a>
 <ul>
-<li><a href="#orgc43205d">1.1. Overview</a></li>
-<li><a href="#org3add18b">1.2. Course Learning Outcomes &amp; Objectives</a></li>
+<li><a href="#org97be806">1.1. Overview</a></li>
+<li><a href="#org318a56a">1.2. Course Learning Outcomes &amp; Objectives</a></li>
 </ul>
 </li>
-<li><a href="#orgba948f2">2. Exams</a></li>
-<li><a href="#orgdf25dbf">3. Assignments</a></li>
-<li><a href="#org7adaec9">4. Attendance/Quizzes/Participation</a></li>
-<li><a href="#org8c5c980">5. Grading</a>
+<li><a href="#orgc33fb93">2. Exams</a></li>
+<li><a href="#orgc6bb819">3. Assignments</a></li>
+<li><a href="#org1499a7a">4. Attendance/Quizzes/Participation</a></li>
+<li><a href="#org96666ca">5. Grading</a>
 <ul>
-<li><a href="#orgcfeb5bd">5.1. An Important Note on Grading</a></li>
+<li><a href="#org1454d5a">5.1. An Important Note on Grading</a></li>
 </ul>
 </li>
-<li><a href="#org2b99e2b">6. Tentative Outline by Week</a>
+<li><a href="#org19cf1d8">6. Tentative Outline by Week</a></li>
+<li><a href="#org2bf680a">7. How To Ask Questions</a></li>
+<li><a href="#orgb090425">8. Email Communication</a></li>
+<li><a href="#org1693cbc">9. Guidelines and Accommodations</a>
 <ul>
-<li><a href="#orge405553">6.1. Exam Due Dates</a></li>
-<li><a href="#org7552502">6.2. Assignment Due Dates</a></li>
-</ul>
-</li>
-<li><a href="#org3de672b">7. How To Ask Questions</a></li>
-<li><a href="#org23e47d2">8. Email Communication</a></li>
-<li><a href="#org22af604">9. Guidelines and Accommodations</a>
-<ul>
-<li><a href="#org1dcaadb">9.1. Course Syllabus Disclosure Statement Fall 2021</a></li>
+<li><a href="#org51c08ee">9.1. Course Syllabus Disclosure Statement Fall 2021</a></li>
 </ul>
 </li>
 </ul>
@@ -296,11 +84,11 @@ SCHOOL OF BUSINESS ADMINISTRATION
 </p>
 
 <p>
-<b><b>Office</b></b>: Online Fall 2021 | On Campus Office is Donovan 1277
+<b><b>Office</b></b>: Online Summer 2022 | On Campus Office is Donovan 1277
 </p>
 
 <p>
-<b><b>Office Hours</b></b>: Monday and Wednesday 12&#x2013;2pm, and on-request I will create a BB Collaborate session where you can log in and ask questions.
+<b><b>Office Hours</b></b>: On-request I will create a BB Collaborate session where you can log in and ask questions.
 </p>
 
 <p>
@@ -327,16 +115,16 @@ SCHOOL OF BUSINESS ADMINISTRATION
 <b><b>Lecture Notes</b></b>: <a href="https://financial-education.github.io/intro_corp_fin.html">Financial Education</a>
 </p>
 
-<div id="outline-container-org8d09a6c" class="outline-2">
-<h2 id="org8d09a6c"><span class="section-number-2">1.</span> Description</h2>
+<div id="outline-container-orgb1bb0e6" class="outline-2">
+<h2 id="orgb1bb0e6"><span class="section-number-2">1.</span> Description</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 <b><b>Course Catalog Description</b></b>: General principles of corporate/managerial finance are presented. Topics include the tax environment, an overview of financial planning and control, working capital management, long term financing, time value of money, capital budgeting, cost of capital, dividend policy, agency theory, and international financial issues. Responsibilities and functions performed by financial analysts, financial managers, and chief financial managers are discussed. (Pre-requisite: ACC 201 or equivalent.)
 </p>
 </div>
 
-<div id="outline-container-orgc43205d" class="outline-3">
-<h3 id="orgc43205d"><span class="section-number-3">1.1.</span> Overview</h3>
+<div id="outline-container-org97be806" class="outline-3">
+<h3 id="org97be806"><span class="section-number-3">1.1.</span> Overview</h3>
 <div class="outline-text-3" id="text-1-1">
 <ul class="org-ul">
 <li>This course will present the fundamentals of managerial finance as a vital part of the complete business ecosystem. Importance is placed on becoming familiar with the rudimentary tools and techniques that act as the basis for all further study and function of finance.</li>
@@ -350,8 +138,8 @@ SCHOOL OF BUSINESS ADMINISTRATION
 </div>
 </div>
 
-<div id="outline-container-org3add18b" class="outline-3">
-<h3 id="org3add18b"><span class="section-number-3">1.2.</span> Course Learning Outcomes &amp; Objectives</h3>
+<div id="outline-container-org318a56a" class="outline-3">
+<h3 id="org318a56a"><span class="section-number-3">1.2.</span> Course Learning Outcomes &amp; Objectives</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 CLO 1. Technical Competence: Adept in applying technology to solve institutional problems and enable effective financial decision making.
@@ -372,26 +160,26 @@ CLO 4. Leadership and Communication: Be capable of expressing key financial conc
 </div>
 </div>
 
-<div id="outline-container-orgba948f2" class="outline-2">
-<h2 id="orgba948f2"><span class="section-number-2">2.</span> Exams</h2>
+<div id="outline-container-orgc33fb93" class="outline-2">
+<h2 id="orgc33fb93"><span class="section-number-2">2.</span> Exams</h2>
 <div class="outline-text-2" id="text-2">
 <p>
-There will be three exams.  The exams will be multiple choice. Failure to complete an exam by the due date will result in a grade of 0.
+There will be two exams.  The exams will be multiple choice. Failure to complete an exam by the due date will result in a grade of 0.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgdf25dbf" class="outline-2">
-<h2 id="orgdf25dbf"><span class="section-number-2">3.</span> Assignments</h2>
+<div id="outline-container-orgc6bb819" class="outline-2">
+<h2 id="orgc6bb819"><span class="section-number-2">3.</span> Assignments</h2>
 <div class="outline-text-2" id="text-3">
 <p>
-There are 4 assignments under Content &gt; Assignments in BackBoard.
+There are 4 assignments under Content &gt; Assignments in BlackBoard.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org7adaec9" class="outline-2">
-<h2 id="org7adaec9"><span class="section-number-2">4.</span> Attendance/Quizzes/Participation</h2>
+<div id="outline-container-org1499a7a" class="outline-2">
+<h2 id="org1499a7a"><span class="section-number-2">4.</span> Attendance/Quizzes/Participation</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 There is no attendance/participation grade.
@@ -399,8 +187,8 @@ There is no attendance/participation grade.
 </div>
 </div>
 
-<div id="outline-container-org8c5c980" class="outline-2">
-<h2 id="org8c5c980"><span class="section-number-2">5.</span> Grading</h2>
+<div id="outline-container-org96666ca" class="outline-2">
+<h2 id="org96666ca"><span class="section-number-2">5.</span> Grading</h2>
 <div class="outline-text-2" id="text-5">
 <div class="org-center">
 <p>
@@ -424,24 +212,30 @@ There is no attendance/participation grade.
 <tbody>
 <tr>
 <td class="org-left">Exam 1</td>
-<td class="org-right">25</td>
+<td class="org-right">40</td>
 </tr>
 
 <tr>
 <td class="org-left">Exam 2</td>
-<td class="org-right">25</td>
-</tr>
-
-<tr>
-<td class="org-left">Final Exam</td>
-<td class="org-right">30</td>
-</tr>
-
-<tr>
-<td class="org-left">Assignments</td>
-<td class="org-right">20</td>
+<td class="org-right">40</td>
 </tr>
 </tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Assignments</th>
+<th scope="col" class="org-right">20</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td class="org-left">Total Points</td>
@@ -472,8 +266,8 @@ There is no attendance/participation grade.
 </blockquote>
 </div>
 
-<div id="outline-container-orgcfeb5bd" class="outline-3">
-<h3 id="orgcfeb5bd"><span class="section-number-3">5.1.</span> An Important Note on Grading</h3>
+<div id="outline-container-org1454d5a" class="outline-3">
+<h3 id="org1454d5a"><span class="section-number-3">5.1.</span> An Important Note on Grading</h3>
 <div class="outline-text-3" id="text-5-1">
 <blockquote>
 <p>
@@ -484,40 +278,17 @@ There is no special consideration if you need a certain grade in this course to 
 </div>
 </div>
 
-
-
-<div id="outline-container-org2b99e2b" class="outline-2">
-<h2 id="org2b99e2b"><span class="section-number-2">6.</span> Tentative Outline by Week</h2>
+<div id="outline-container-org19cf1d8" class="outline-2">
+<h2 id="org19cf1d8"><span class="section-number-2">6.</span> Tentative Outline by Week</h2>
 <div class="outline-text-2" id="text-6">
 <p>
-We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams/assignments are below:
+We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams/assignments are listed in BlackBoard.
 </p>
 </div>
-
-<div id="outline-container-orge405553" class="outline-3">
-<h3 id="orge405553"><span class="section-number-3">6.1.</span> Exam Due Dates</h3>
-<div class="outline-text-3" id="text-6-1">
-<ul class="org-ul">
-<li>October 1: Exam 1 Due</li>
-<li>November 19: Exam 2 Due</li>
-<li>December 13: Final Exam Due</li>
-</ul>
-</div>
 </div>
 
-<div id="outline-container-org7552502" class="outline-3">
-<h3 id="org7552502"><span class="section-number-3">6.2.</span> Assignment Due Dates</h3>
-<div class="outline-text-3" id="text-6-2">
-<ul class="org-ul">
-<li>October 1: DEF14A and Debt to Equity Ratio</li>
-<li>November 19: Stock Market and CAPM</li>
-</ul>
-</div>
-</div>
-</div>
-
-<div id="outline-container-org3de672b" class="outline-2">
-<h2 id="org3de672b"><span class="section-number-2">7.</span> How To Ask Questions</h2>
+<div id="outline-container-org2bf680a" class="outline-2">
+<h2 id="org2bf680a"><span class="section-number-2">7.</span> How To Ask Questions</h2>
 <div class="outline-text-2" id="text-7">
 <p>
 How to properly phrase a question is important in the workplace as well as in courses, such as ours, where much of the interaction is online.  Remember when formulating your question, <b>you get what you give</b>.  If you simply say, "I don't understand", then I have very little information to work with and so I can't help.  I'll just say to rewatch the relevant video.
@@ -533,8 +304,8 @@ Alternatively, if you say, "I calculated a stock's expected return using the CAP
 </div>
 </div>
 
-<div id="outline-container-org23e47d2" class="outline-2">
-<h2 id="org23e47d2"><span class="section-number-2">8.</span> Email Communication</h2>
+<div id="outline-container-orgb090425" class="outline-2">
+<h2 id="orgb090425"><span class="section-number-2">8.</span> Email Communication</h2>
 <div class="outline-text-2" id="text-8">
 <p>
 Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 302). 
@@ -542,16 +313,16 @@ Questions about course material should be posted to the most relevant discussion
 </div>
 </div>
 
-<div id="outline-container-org22af604" class="outline-2">
-<h2 id="org22af604"><span class="section-number-2">9.</span> Guidelines and Accommodations</h2>
+<div id="outline-container-org1693cbc" class="outline-2">
+<h2 id="org1693cbc"><span class="section-number-2">9.</span> Guidelines and Accommodations</h2>
 <div class="outline-text-2" id="text-9">
 <p>
 Academic Integrity Policy Students Enrolled in this course are required to understand and fully comply with all aspects of the Academic Integrity Policy as described in the SUNY Polytechnic Institute Handbook (available at:  <a href="https://sunypoly.edu/pdf/student_handbook.pdf">https://sunypoly.edu/pdf/student_handbook.pdf</a> )
 </p>
 </div>
 
-<div id="outline-container-org1dcaadb" class="outline-3">
-<h3 id="org1dcaadb"><span class="section-number-3">9.1.</span> Course Syllabus Disclosure Statement Fall 2021</h3>
+<div id="outline-container-org51c08ee" class="outline-3">
+<h3 id="org51c08ee"><span class="section-number-3">9.1.</span> Course Syllabus Disclosure Statement Fall 2021</h3>
 <div class="outline-text-3" id="text-9-1">
 <blockquote>
 <p>
@@ -584,7 +355,7 @@ NanoFab South
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Matthew Brigida, Ph.D.</p>
-<p class="date">Created: 2021-09-03 Fri 15:15</p>
+<p class="date">Created: 2022-05-25 Wed 10:54</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
