@@ -242,8 +242,7 @@ Alternatively, if you say, "I calculated a stock's expected return using the CAP
 
 * Email Communication
 
-Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  When sending an email, be sure to put the course in the subject line (FIN 302). 
-
+Questions about course material should be posted to the most relevant discussion board.  Email should only be used for personal matters.  By using the discussion boards, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.  If you do send an email, be sure to put the course in the subject line (FIN 302). 
 
 
 #+begin_comment
