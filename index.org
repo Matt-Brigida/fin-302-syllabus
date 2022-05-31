@@ -141,7 +141,19 @@ There is no special consideration if you need a certain grade in this course to 
 
 * Tentative Outline by Week
   
-We will cover chapters 1 through 14.  Since this course is asynchronous, you have a measure of flexibility regarding when you cover each chapter.  The due dates for the exams/assignments are listed in BlackBoard.
+We will cover chapters 1 through 14.  Since this course is asynchronous, you
+have a measure of flexibility regarding when you cover each chapter.  The due
+dates for the exams/assignments are listed below.
+
+** Exam Due Dates
+
+- June 24: Exam 1 Due
+- July 24: Exam 2 Due
+
+** Assignment Due Dates
+
+- June 24: DEF14A and Debt to Equity Ratio
+- July 24: Stock Market and CAPM
 
 # ** Exam Due Dates
 # 
